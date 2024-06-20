@@ -16,13 +16,13 @@ public class CalcDesconto {
         System.out.print("Digite a porcentagem de desconto: ");
         percDesc = scanner.nextDouble();
 
-        //Calcula o valor de desconto
+        //Calcula o valor do desconto
         vlrDesc =  vlrProduto * (percDesc /100);
 
         //Calcula o preço final
         precoFinal = vlrProduto - vlrDesc;
 
-        //Exibe valor do deconto e o preço final
+        //Exibe valor do desconto e o preço final
         System.out.printf("Valor do desconto: R$ %.2f%n", vlrDesc);
         System.out.printf("Preço final: R$ %.2f%n", precoFinal);
     }
