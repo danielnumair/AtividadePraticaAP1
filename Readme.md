@@ -58,6 +58,9 @@ Instruções:
 -Verifica se login e senha estão corretos  
 -Exibe resultado  
 
-7-Gerador de Tabuada  
+7-Gerador de Tabuada - GeradorTabuada.java   
 Descrição: Desenvolva uma classe que peça ao usuário um número e apresente a tabuada deste número de 1 a 10, utilizando um loop para gerar os resultados.  
 Instruções:  
+-Recebe o número do usuário  
+-Construe a tabuada  
+-Exibe a tabuada  
