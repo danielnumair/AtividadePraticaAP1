@@ -46,10 +46,17 @@ Instruções:
 5-Circuito de Resistências - CircuitoResistencia.java  
 Descrição: Faça uma classe que receba o valor de quatro resistências ligadas em série. Calcule e exiba a resistência equivalente, a maior e a menor resistência.  
 Instruções:  
+-Digite o valor das 4 resistências  
+-Calcula a resistência equivalente  
+-Encontra a maior e a menor resistência  
+-Exibe os resultados  
 
-6-Sistema de Login  
+6-Sistema de Login - SistemaLogin  
 Descrição: Crie uma classe que simule o acesso a um sistema solicitando login e senha. Compare os dados inseridos com os valores "java8". O usuário tem três tentativas para acertar, com mensagens de erro informativas a cada falha.  
 Instruções:  
+-Solicita login e senha, até 3 tentativas  
+-Verifica se login e senha estão corretos  
+-Exibe resultado  
 
 7-Gerador de Tabuada  
 Descrição: Desenvolva uma classe que peça ao usuário um número e apresente a tabuada deste número de 1 a 10, utilizando um loop para gerar os resultados.  
