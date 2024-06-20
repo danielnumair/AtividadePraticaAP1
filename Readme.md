@@ -6,7 +6,7 @@ Tarefas:
 
 1-Calculadora de Desconto - CalcDesconto.java  
 Descrição: Desenvolva uma classe que utilize a classe Scanner para receber o valor de um produto e uma porcentagem de desconto. Calcule e exiba o valor do desconto e o preço final do produto após aplicar o desconto.  
-Instruções:
+Instruções:  
 -Digite o valor do produto  
 -Digite a porcentagem de desconto  
 -Calcula o valor do desconto  
@@ -43,14 +43,14 @@ Instruções:
 -Chama método que verifica se a pessoa pode se aposentar  
 -Exibe o resultado  
 
-5-Circuito de Resistências
-Descrição: Faça uma classe que receba o valor de quatro resistências ligadas em série. Calcule e exiba a resistência equivalente, a maior e a menor resistência.
-Instruções:
+5-Circuito de Resistências - CircuitoResistencia.java  
+Descrição: Faça uma classe que receba o valor de quatro resistências ligadas em série. Calcule e exiba a resistência equivalente, a maior e a menor resistência.  
+Instruções:  
 
-6-Sistema de Login
-Descrição: Crie uma classe que simule o acesso a um sistema solicitando login e senha. Compare os dados inseridos com os valores "java8". O usuário tem três tentativas para acertar, com mensagens de erro informativas a cada falha.
-Instruções:
+6-Sistema de Login  
+Descrição: Crie uma classe que simule o acesso a um sistema solicitando login e senha. Compare os dados inseridos com os valores "java8". O usuário tem três tentativas para acertar, com mensagens de erro informativas a cada falha.  
+Instruções:  
 
-7-Gerador de Tabuada
-Descrição: Desenvolva uma classe que peça ao usuário um número e apresente a tabuada deste número de 1 a 10, utilizando um loop para gerar os resultados.
-Instruções:
+7-Gerador de Tabuada  
+Descrição: Desenvolva uma classe que peça ao usuário um número e apresente a tabuada deste número de 1 a 10, utilizando um loop para gerar os resultados.  
+Instruções:  
